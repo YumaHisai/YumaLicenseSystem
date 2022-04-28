@@ -16,7 +16,7 @@
             "description": "Official RGBCraft Server.",
             "icon": "https://i.imgur.com/YsWYZjh.png",
             "version": "1.0rgb-alpha",
-            "address": "mc.rgbcraft.com:25565",
+            "address": "mc.rgbcraft.com",
             "minecraftVersion": "1.4.7",
             "discord": {
                 "shortId": "RGBCraft",
