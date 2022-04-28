@@ -17,7 +17,7 @@
             "icon": "https://i.imgur.com/YsWYZjh.png",
             "version": "1.0rgb-alpha",
             "address": "mc.rgbcraft.com",
-            "minecraftVersion": "1.5.2",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "RGBCraft",
                 "largeImageText": "RGBCraft",
@@ -27,23 +27,23 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.5.2-7.8.1.738",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 18011,
-                        "MD5": "FF66CF939F49611FB42856C02DF0DEE2",
-                        "url": "https://yumahisai.cf/depends/forge-1.5.2-7.8.1.738-installer.jar"
+                        "size": 4884700,
+                        "MD5": "90734a5a713e24902d24c45c15caa42c",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
                     "subModules": [
                         {
-                            "id": "net.minecraft:launchwrapper:1.5",
+                            "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
                             "artifact": {
-                                "size": 27787,
-                                "MD5": "A211AB7001FCA1BC2B534A0A5847AED6",
-                                "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.5/launchwrapper-1.5.jar"
+                                "size": 32999,
+                                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
                             }
                         },
                         {
@@ -237,6 +237,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "net.optifine:optifine:1.12.2_HD_U_F5",
+                    "name": "Optifine",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2598821,
+                        "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar"
+                    }
                 }
             ]
         }
