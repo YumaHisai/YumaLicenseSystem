@@ -23,8 +23,8 @@
                 "largeImageText": "RGBCraft",
                 "largeImageKey": "rgb-craft"
             },
-            "mainServer": false,
-            "autoconnect": true,
+            "mainServer": true,
+            "autoconnect": false,
             "modules": [
                 {
                     "id": "net.minecraftforge:forge:1.6.2-9.10.1.871",
@@ -33,7 +33,7 @@
                     "artifact": {
                         "size": 14235,
                         "MD5": "E7DBBB3C92D2AA60FD3578E72FDC40F6",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
+                        "url": "https://yumahisai.cf/depends/forge-1.6.2-9.10.1.871-universal.jar"
                     }
                 }
             ]
