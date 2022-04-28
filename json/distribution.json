@@ -11,17 +11,17 @@
     "rss": "",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.5",
-            "address": "mc.westeroscraft.com:25565",
-            "minecraftVersion": "1.12.2",
+            "id": "RGBCraft",
+            "name": "RGBCraft",
+            "description": "Official RGBCraft Server.",
+            "icon": "https://i.imgur.com/YsWYZjh.png",
+            "version": "1.0rgb-alpha",
+            "address": "mc.rgbcraft.com:25565",
+            "minecraftVersion": "1.4.7",
             "discord": {
-                "shortId": "1.12.2 Production Server",
-                "largeImageText": "WesterosCraft 1.12.2 Production Server",
-                "largeImageKey": "server-prod"
+                "shortId": "RGBCraft",
+                "largeImageText": "RGBCraft",
+                "largeImageKey": "rgb-craft"
             },
             "mainServer": false,
             "autoconnect": true,
