@@ -27,7 +27,7 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.4.7",
+                    "id": "net.minecraftforge:forge:7.26a",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
