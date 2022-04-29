@@ -16,8 +16,8 @@
             "description": "Official RGBCraft Server.",
             "icon": "https://i.imgur.com/P2Rr7Y2.png",
             "version": "1.0rgb-alpha",
-            "address": "mc.rgbcraft.com",
-            "minecraftVersion": "1.6.4",
+            "address": "45.141.57.140:25565",
+            "minecraftVersion": "1.5.2",
             "discord": {
                 "shortId": "RGBCraft",
                 "largeImageText": "RGBCraft",
@@ -27,35 +27,20 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.6.4",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
+                    "id": "com.mumfrey:liteloader:1.5.2",
+                    "name": "Liteloader (1.5.2)",
+                    "type": "LiteLoader",
+                    "required": {
+                        "value": false,
+                        "def": false
+                    },
                     "artifact": {
-                        "size": 14823,
-                        "MD5": "a4d84569831a19d562b690343634cbac ",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.1345/forge-1.6.4-9.11.1.1345-universal.jar"
+                        "size": 445,
+                        "MD5": "C03C3D9060E5E6D7F8CE922A2B82D24B",
+                        "url": "https://yumahisai.cf/depends/liteloader-1.5.2.jar"
                     },
                     "subModules": [
-                        {
-                            "id": "cpw.mods.fml:fml:1.4.7",
-                            "name": "Forge Mod Loader",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 13795,
-                                "MD5": "736EE1F4869413922F639CFAD6260133",
-                                "url": "https://yumahisai.cf/depends/forge-1.4.7-6.6.2.534-universal.jar"
-                            }
-                        },
-                        {
-                            "id": "net.minecraft:launchwrapper:1.8",
-                            "name": "Mojang (LaunchWrapper)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 244,
-                                "MD5": "460FFEEDAE268DC70C8210CE179FA44A",
-                                "url": "https://github.com/diegonetto/moonquest/raw/master/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar"
-                            }
-                        }
+                        "All LiteMods go here"
                     ]
                 }
             ]
