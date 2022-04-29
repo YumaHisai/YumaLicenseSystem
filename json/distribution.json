@@ -16,7 +16,7 @@
             "description": "Official RGBCraft Server.",
             "icon": "https://i.imgur.com/P2Rr7Y2.png",
             "version": "1.0rgb-alpha",
-            "address": "45.141.57.140:25565",
+            "address": "mc.rgbcraft.com",
             "minecraftVersion": "1.4.7",
             "discord": {
                 "shortId": "RGBCraft",
@@ -36,6 +36,16 @@
                         "url": "https://yumahisai.cf/depends/forge-1.4.7-6.6.2.534-universal.jar"
                     },
                     "subModules": [
+                        {
+                            "id": "net.minecraft.client:client:pre-1.6",
+                            "name": "client",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4928385,
+                                "MD5": "990E50D434DF8E56FCCC88139139866E",
+                                "url": "https://launcher.mojang.com/v1/objects/42d6744cfbbd2958f9e6688dd6e78d86d658d0d4/client.jar"
+                            }
+                        },
                         {
                             "id": "cpw.mods.fml:fml:1.4.7",
                             "name": "Forge Mod Loader",
