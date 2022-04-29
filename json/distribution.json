@@ -45,15 +45,6 @@
                                     "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
                                     "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
                                 }
-                            },
-                            {
-                                "id": "com.mumfrey:liteloader:1.7.10",
-                                "name": "Liteloader (1.7.10)",
-                                "type": "LiteLoader",
-                                "artifact": {
-                                    "size": 4370,
-                                    "MD5": "63ADA46E033D0CB6782BADA09AD5CA4E",
-                                    "url": "https://yumahisai.cf/depends/liteloader-1.7.10.jar"
                             }
                         }
                     ]
