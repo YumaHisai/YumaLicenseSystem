@@ -30,10 +30,6 @@
                     "id": "com.mumfrey:liteloader:1.7.10",
                     "name": "Liteloader (1.7.10)",
                     "type": "LiteLoader",
-                    "required": {
-                        "value": false,
-                        "def": false
-                    },
                     "artifact": {
                         "size": 4370,
                         "MD5": "63ADA46E033D0CB6782BADA09AD5CA4E",
