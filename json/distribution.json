@@ -17,7 +17,7 @@
             "icon": "https://i.imgur.com/P2Rr7Y2.png",
             "version": "1.0rgb-alpha",
             "address": "mc.rgbcraft.com",
-            "minecraftVersion": "1.4.7",
+            "minecraftVersion": "1.6.4",
             "discord": {
                 "shortId": "RGBCraft",
                 "largeImageText": "RGBCraft",
@@ -27,13 +27,13 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.4.7",
+                    "id": "net.minecraftforge:forge:1.6.4",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 13795,
-                        "MD5": "736EE1F4869413922F639CFAD6260133",
-                        "url": "https://yumahisai.cf/depends/forge-1.4.7-6.6.2.534-universal.jar"
+                        "size": 14823,
+                        "MD5": "a4d84569831a19d562b690343634cbac ",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.6.4-9.11.1.1345/forge-1.6.4-9.11.1.1345-universal.jar"
                     },
                     "subModules": [
                         {
