@@ -38,10 +38,7 @@
                         "size": 445,
                         "MD5": "C03C3D9060E5E6D7F8CE922A2B82D24B",
                         "url": "https://yumahisai.cf/depends/liteloader-1.5.2.jar"
-                    },
-                    "subModules": [
-                        "All LiteMods go here"
-                    ]
+                    }
                 }
             ]
         }
