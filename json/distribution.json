@@ -27,14 +27,36 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "com.mumfrey:liteloader:1.7.10",
-                    "name": "Liteloader (1.7.10)",
-                    "type": "LiteLoader",
+                    "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614",
+                    "name": "Minecraft Forge 1.7.10-10.13.4.1614",
+                    "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4370,
-                        "MD5": "63ADA46E033D0CB6782BADA09AD5CA4E",
-                        "url": "https://yumahisai.cf/depends/liteloader-1.7.10.jar"
-                    }
+                        "size": 22284,
+                        "MD5": "add0fba161c4652a96efb4264ec2d9ec",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+                    },
+                    "subModules": [
+                            {
+                                "id": "net.minecraft:launchwrapper:1.12",
+                                "name": "Mojang (LaunchWrapper)",
+                                "type": "Library",
+                                "artifact": {
+                                    "size": 32999,
+                                    "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                                    "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
+                                }
+                            },
+                            {
+                                "id": "com.mumfrey:liteloader:1.7.10",
+                                "name": "Liteloader (1.7.10)",
+                                "type": "LiteLoader",
+                                "artifact": {
+                                    "size": 4370,
+                                    "MD5": "63ADA46E033D0CB6782BADA09AD5CA4E",
+                                    "url": "https://yumahisai.cf/depends/liteloader-1.7.10.jar"
+                            }
+                        }
+                    ]
                 }
             ]
         }
