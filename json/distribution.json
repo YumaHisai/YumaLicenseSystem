@@ -17,7 +17,7 @@
             "icon": "https://i.imgur.com/P2Rr7Y2.png",
             "version": "1.0rgb-alpha",
             "address": "45.141.57.140:25565",
-            "minecraftVersion": "1.8.9",
+            "minecraftVersion": "1.7.10",
             "discord": {
                 "shortId": "RGBCraft",
                 "largeImageText": "RGBCraft",
@@ -27,18 +27,21 @@
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "com.mumfrey:liteloader:1.5.2",
-                    "name": "Liteloader (1.5.2)",
+                    "id": "com.mumfrey:liteloader:1.7.10",
+                    "name": "Liteloader (1.7.10)",
                     "type": "LiteLoader",
                     "required": {
                         "value": false,
                         "def": false
                     },
                     "artifact": {
-                        "size": 445,
-                        "MD5": "C03C3D9060E5E6D7F8CE922A2B82D24B",
-                        "url": "https://yumahisai.cf/depends/liteloader-1.5.2.jar"
-                    }
+                        "size": 4370,
+                        "MD5": "63ADA46E033D0CB6782BADA09AD5CA4E",
+                        "url": "https://yumahisai.cf/depends/liteloader-1.7.10.jar"
+                    },
+                    "subModules": [
+                        "All LiteMods go here"
+                    ]
                 }
             ]
         }
